@@ -10,15 +10,15 @@
 		E8BA7E682161B4780080C2EA /* AHDownloadButton.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E8BA7E5E2161B4780080C2EA /* AHDownloadButton.framework */; };
 		E8BA7E6D2161B4780080C2EA /* AHDownloadButtonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7E6C2161B4780080C2EA /* AHDownloadButtonTests.swift */; };
 		E8BA7E6F2161B4780080C2EA /* AHDownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = E8BA7E612161B4780080C2EA /* AHDownloadButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E8BA7E812161B48C0080C2EA /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7E782161B48B0080C2EA /* Color.swift */; };
-		E8BA7E822161B48C0080C2EA /* AHDownloadButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7E792161B48B0080C2EA /* AHDownloadButton.swift */; };
-		E8BA7E832161B48C0080C2EA /* HighlightableRoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7E7A2161B48B0080C2EA /* HighlightableRoundedButton.swift */; };
-		E8BA7E842161B48C0080C2EA /* ProgressButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7E7B2161B48B0080C2EA /* ProgressButton.swift */; };
-		E8BA7E852161B48C0080C2EA /* UIButton+TitleWidth.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7E7C2161B48B0080C2EA /* UIButton+TitleWidth.swift */; };
-		E8BA7E862161B48C0080C2EA /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7E7D2161B48B0080C2EA /* CircleView.swift */; };
-		E8BA7E872161B48C0080C2EA /* UIView+Constraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7E7E2161B48B0080C2EA /* UIView+Constraint.swift */; };
-		E8BA7E882161B48C0080C2EA /* AHDownloadButton+StateTransitionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7E7F2161B48B0080C2EA /* AHDownloadButton+StateTransitionAnimation.swift */; };
-		E8BA7E892161B48C0080C2EA /* ProgressCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7E802161B48C0080C2EA /* ProgressCircleView.swift */; };
+		E8BA7EC12161C0380080C2EA /* HighlightableRoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7EB82161C0370080C2EA /* HighlightableRoundedButton.swift */; };
+		E8BA7EC22161C0380080C2EA /* ProgressButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7EB92161C0370080C2EA /* ProgressButton.swift */; };
+		E8BA7EC32161C0380080C2EA /* AHDownloadButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7EBA2161C0380080C2EA /* AHDownloadButton.swift */; };
+		E8BA7EC42161C0380080C2EA /* AHDownloadButton+StateTransitionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7EBB2161C0380080C2EA /* AHDownloadButton+StateTransitionAnimation.swift */; };
+		E8BA7EC52161C0380080C2EA /* UIButton+TitleWidth.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7EBC2161C0380080C2EA /* UIButton+TitleWidth.swift */; };
+		E8BA7EC62161C0380080C2EA /* UIView+Constraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7EBD2161C0380080C2EA /* UIView+Constraint.swift */; };
+		E8BA7EC72161C0380080C2EA /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7EBE2161C0380080C2EA /* Color.swift */; };
+		E8BA7EC82161C0380080C2EA /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7EBF2161C0380080C2EA /* CircleView.swift */; };
+		E8BA7EC92161C0380080C2EA /* ProgressCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BA7EC02161C0380080C2EA /* ProgressCircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,15 +38,15 @@
 		E8BA7E672161B4780080C2EA /* AHDownloadButtonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AHDownloadButtonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8BA7E6C2161B4780080C2EA /* AHDownloadButtonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AHDownloadButtonTests.swift; sourceTree = "<group>"; };
 		E8BA7E6E2161B4780080C2EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E8BA7E782161B48B0080C2EA /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
-		E8BA7E792161B48B0080C2EA /* AHDownloadButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AHDownloadButton.swift; sourceTree = "<group>"; };
-		E8BA7E7A2161B48B0080C2EA /* HighlightableRoundedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HighlightableRoundedButton.swift; sourceTree = "<group>"; };
-		E8BA7E7B2161B48B0080C2EA /* ProgressButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressButton.swift; sourceTree = "<group>"; };
-		E8BA7E7C2161B48B0080C2EA /* UIButton+TitleWidth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+TitleWidth.swift"; sourceTree = "<group>"; };
-		E8BA7E7D2161B48B0080C2EA /* CircleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
-		E8BA7E7E2161B48B0080C2EA /* UIView+Constraint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Constraint.swift"; sourceTree = "<group>"; };
-		E8BA7E7F2161B48B0080C2EA /* AHDownloadButton+StateTransitionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AHDownloadButton+StateTransitionAnimation.swift"; sourceTree = "<group>"; };
-		E8BA7E802161B48C0080C2EA /* ProgressCircleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressCircleView.swift; sourceTree = "<group>"; };
+		E8BA7EB82161C0370080C2EA /* HighlightableRoundedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HighlightableRoundedButton.swift; sourceTree = "<group>"; };
+		E8BA7EB92161C0370080C2EA /* ProgressButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressButton.swift; sourceTree = "<group>"; };
+		E8BA7EBA2161C0380080C2EA /* AHDownloadButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AHDownloadButton.swift; sourceTree = "<group>"; };
+		E8BA7EBB2161C0380080C2EA /* AHDownloadButton+StateTransitionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AHDownloadButton+StateTransitionAnimation.swift"; sourceTree = "<group>"; };
+		E8BA7EBC2161C0380080C2EA /* UIButton+TitleWidth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+TitleWidth.swift"; sourceTree = "<group>"; };
+		E8BA7EBD2161C0380080C2EA /* UIView+Constraint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Constraint.swift"; sourceTree = "<group>"; };
+		E8BA7EBE2161C0380080C2EA /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		E8BA7EBF2161C0380080C2EA /* CircleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
+		E8BA7EC02161C0380080C2EA /* ProgressCircleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,15 +108,15 @@
 			children = (
 				E8BA7E622161B4780080C2EA /* Info.plist */,
 				E8BA7E612161B4780080C2EA /* AHDownloadButton.h */,
-				E8BA7E7F2161B48B0080C2EA /* AHDownloadButton+StateTransitionAnimation.swift */,
-				E8BA7E7D2161B48B0080C2EA /* CircleView.swift */,
-				E8BA7E782161B48B0080C2EA /* Color.swift */,
-				E8BA7E7A2161B48B0080C2EA /* HighlightableRoundedButton.swift */,
-				E8BA7E7B2161B48B0080C2EA /* ProgressButton.swift */,
-				E8BA7E802161B48C0080C2EA /* ProgressCircleView.swift */,
-				E8BA7E7C2161B48B0080C2EA /* UIButton+TitleWidth.swift */,
-				E8BA7E7E2161B48B0080C2EA /* UIView+Constraint.swift */,
-				E8BA7E792161B48B0080C2EA /* AHDownloadButton.swift */,
+				E8BA7EBA2161C0380080C2EA /* AHDownloadButton.swift */,
+				E8BA7EBB2161C0380080C2EA /* AHDownloadButton+StateTransitionAnimation.swift */,
+				E8BA7EBF2161C0380080C2EA /* CircleView.swift */,
+				E8BA7EBE2161C0380080C2EA /* Color.swift */,
+				E8BA7EB82161C0370080C2EA /* HighlightableRoundedButton.swift */,
+				E8BA7EB92161C0370080C2EA /* ProgressButton.swift */,
+				E8BA7EC02161C0380080C2EA /* ProgressCircleView.swift */,
+				E8BA7EBC2161C0380080C2EA /* UIButton+TitleWidth.swift */,
+				E8BA7EBD2161C0380080C2EA /* UIView+Constraint.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -230,15 +230,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E8BA7E862161B48C0080C2EA /* CircleView.swift in Sources */,
-				E8BA7E872161B48C0080C2EA /* UIView+Constraint.swift in Sources */,
-				E8BA7E852161B48C0080C2EA /* UIButton+TitleWidth.swift in Sources */,
-				E8BA7E842161B48C0080C2EA /* ProgressButton.swift in Sources */,
-				E8BA7E892161B48C0080C2EA /* ProgressCircleView.swift in Sources */,
-				E8BA7E822161B48C0080C2EA /* AHDownloadButton.swift in Sources */,
-				E8BA7E832161B48C0080C2EA /* HighlightableRoundedButton.swift in Sources */,
-				E8BA7E882161B48C0080C2EA /* AHDownloadButton+StateTransitionAnimation.swift in Sources */,
-				E8BA7E812161B48C0080C2EA /* Color.swift in Sources */,
+				E8BA7EC82161C0380080C2EA /* CircleView.swift in Sources */,
+				E8BA7EC52161C0380080C2EA /* UIButton+TitleWidth.swift in Sources */,
+				E8BA7EC32161C0380080C2EA /* AHDownloadButton.swift in Sources */,
+				E8BA7EC72161C0380080C2EA /* Color.swift in Sources */,
+				E8BA7EC92161C0380080C2EA /* ProgressCircleView.swift in Sources */,
+				E8BA7EC22161C0380080C2EA /* ProgressButton.swift in Sources */,
+				E8BA7EC62161C0380080C2EA /* UIView+Constraint.swift in Sources */,
+				E8BA7EC42161C0380080C2EA /* AHDownloadButton+StateTransitionAnimation.swift in Sources */,
+				E8BA7EC12161C0380080C2EA /* HighlightableRoundedButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
