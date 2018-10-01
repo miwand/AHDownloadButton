@@ -89,7 +89,6 @@
 		E8BA7E602161B4780080C2EA /* AHDownloadButton */ = {
 			isa = PBXGroup;
 			children = (
-				E8BA7E622161B4780080C2EA /* Info.plist */,
 				E8BA7E8A2161B69B0080C2EA /* Classes */,
 			);
 			path = AHDownloadButton;
@@ -107,6 +106,7 @@
 		E8BA7E8A2161B69B0080C2EA /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				E8BA7E622161B4780080C2EA /* Info.plist */,
 				E8BA7E612161B4780080C2EA /* AHDownloadButton.h */,
 				E8BA7E7F2161B48B0080C2EA /* AHDownloadButton+StateTransitionAnimation.swift */,
 				E8BA7E7D2161B48B0080C2EA /* CircleView.swift */,
@@ -394,7 +394,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = AHDownloadButton/Info.plist;
+				INFOPLIST_FILE = AHDownloadButton/Classes/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -423,7 +423,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = AHDownloadButton/Info.plist;
+				INFOPLIST_FILE = AHDownloadButton/Classes/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
