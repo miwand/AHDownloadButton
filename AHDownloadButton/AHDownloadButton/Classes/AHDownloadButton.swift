@@ -17,7 +17,6 @@ public class AHDownloadButton: UIView {
     public enum State {
         case startDownload
         case pending
-        case paused
         case downloading
         case downloaded
     }

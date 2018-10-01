@@ -89,6 +89,7 @@
 		E8BA7E602161B4780080C2EA /* AHDownloadButton */ = {
 			isa = PBXGroup;
 			children = (
+				E8BA7E622161B4780080C2EA /* Info.plist */,
 				E8BA7E8A2161B69B0080C2EA /* Classes */,
 			);
 			path = AHDownloadButton;
@@ -115,7 +116,6 @@
 				E8BA7E802161B48C0080C2EA /* ProgressCircleView.swift */,
 				E8BA7E7C2161B48B0080C2EA /* UIButton+TitleWidth.swift */,
 				E8BA7E7E2161B48B0080C2EA /* UIView+Constraint.swift */,
-				E8BA7E622161B4780080C2EA /* Info.plist */,
 				E8BA7E792161B48B0080C2EA /* AHDownloadButton.swift */,
 			);
 			path = Classes;
